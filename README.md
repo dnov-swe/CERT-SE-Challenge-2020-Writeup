@@ -33,7 +33,7 @@ Det är intressant trafik som vi vill titta närmare på.
 
 FTP, [file transfer protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol), är ett protokoll som överför filer mellan datorer. Protokollet skickar data i klartext och en aktör som kan avlyssna nätverkstrafiken kan därför ta del av informationen som skickas.
 
-Genom att filtrerar på **ftp || ftp-data** i Wireshark kan vi se all trafik som överförts med ftp.
+Genom att filtrerar på `ftp || ftp-data` i Wiresharks sökruta kan vi se all trafik som överförts med ftp.
 
 Det är nu enkelt att se att ftp-trafiken går i klartext och vi ser till exempel att användaren **sidden** har loggat in på ftp-servern med lösenordet **k3b4bt411rik**.
 
