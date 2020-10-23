@@ -31,7 +31,7 @@ Det är intressant trafik som vi vill titta närmare på.
 <details><summary>Tryck för att läsa</summary>
 <p>
 
-FTP, [file transfer protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol), är ett protokoll som överför filer mellan datorer. Protokollet skickar data i klartext och en aktör som kan avlyssna nätverkstrafiken kan därför ta del av informationen som skickas.
+FTP, [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol), är ett protokoll som överför filer mellan datorer. Protokollet skickar data i klartext och en aktör som kan avlyssna nätverkstrafiken kan därför ta del av informationen som skickas.
 
 Genom att filtrerar på `ftp || ftp-data` i Wiresharks sökruta kan vi se all trafik som överförts med ftp.
 
@@ -87,9 +87,9 @@ Mycket riktigt trillar det riktiga lösenordet ut och vi kan packa upp filen.
 <details><summary>Tryck för att läsa</summary>
 <p>
 
-Den uppackade .tap-filen är i ett filformat som används för att spara filer som i forntiden låg på kasettband och användes till bland annat [Commodore 64]https://en.wikipedia.org/wiki/Commodore_64).
+Den uppackade .tap-filen är i ett filformat som används för att spara filer som i forntiden låg på kasettband och användes till bland annat [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64).
 
-Hitta och ladda ned en C64-emulator och kör .tap-filen så får du se ett demo som visar flaggan.
+Hitta och ladda ned en C64-emulator och kör .tap-filen så får du se ett demo som visar den sista ledtråden till flaggan.
 
 </p>
 </details>
