@@ -15,7 +15,9 @@ I zipfilen hittar du en fil med ändelsen .pcapng ett filformat som används fö
 Ladda ned wireshark och ta en titt i filen och se om du upptäcker något intressant.
 </p>
 </details>
+
 ## Vad har hänt på nätverket?
+
 <details><summary>Tryck för att läsa</summary>
 <p>
 
